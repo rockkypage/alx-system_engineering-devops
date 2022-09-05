@@ -1,1 +1,0 @@
-some texts forthe readme
