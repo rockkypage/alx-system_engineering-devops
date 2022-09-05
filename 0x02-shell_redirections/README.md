@@ -1,1 +1,1 @@
-some texts for theis readme
+some texts for this readme
